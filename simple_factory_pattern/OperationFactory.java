@@ -20,7 +20,8 @@ public class OperationFactory{
     case "/":
       oper=new OperationDiv();
       break;  
-}
+  }
+    return oper;
   }
 
 }
