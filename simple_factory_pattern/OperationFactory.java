@@ -3,7 +3,7 @@
  * @date 2022/8/29
  */
 
-public class OpertionFactory{
+public class OperationFactory{
   
   public static Operation createOperate(String operate){
     Operation oper=null;
