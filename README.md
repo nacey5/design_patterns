@@ -1,5 +1,6 @@
 # design_patterns（developing）
 设计模式的用法场景
+一下是总纲
 ## 装饰者模式
 ## 工厂方法模式
 ## 原型模式
